@@ -1,4 +1,4 @@
-# Homework 2: Processor Core Design
+# Homework 4: Processor Core Design
 ## ***COMPSCI250: Computer Architecture***
 #### Note: z2017g is my old GitHub account that was used for schoolwork. 
 ## Supported Instructions
