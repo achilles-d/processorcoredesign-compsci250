@@ -4,7 +4,7 @@
 ## Supported Instructions
 ![Supported Instructions](./images/supported_instructions.png)
 ## [Logisim](http://www.cburch.com/logisim/download.html) Circuit Files
-### *The following circuits are all subcircuits of hw4.circ. They are not visible in a file manager; they must be viewed using Logisim.*
+### *The following circuits are all subcircuits of hw4.circ. They are not visible in a file manager; they must be viewed using Logisim. A Logisim component reference can be found [here](http://www.cburch.com/logisim/docs/2.5.0/en/libs/index.html)*.
 ### main
 * This subcircuit connects together the other subcircuits discussed below and provides a high-level perspective of the entire processor. 
 
